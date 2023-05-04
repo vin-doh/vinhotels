@@ -1,0 +1,11 @@
+{
+    "name": "vince/hotel",
+    "description": "Hotel Management System",
+    "authors": [
+        {
+            "name": "Vincent Doh",
+            "email": "99025815+vindoh-3@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
